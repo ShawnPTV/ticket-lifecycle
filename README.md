@@ -32,7 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+figure 1: open stage support tickets are registered in osTicket and await review and action by the support team. (in this instance I'm using Timmy as my agent on the support team to help the client Samantha with a ticket at hand) As the stages move on I should be triaging the ticket to get a further understanding of what possible outcomes can occur in real scenarios.
 </p>
 <br />
 
