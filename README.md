@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Windows 11</b> (21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
-<img width="2208" height="1436" alt="image" src="https://github.com/user-attachments/assets/585ec45f-7ea4-4037-84fc-b4e8c4e67fbc" />
+
 
 - Intake
 - Assignment and Communication
