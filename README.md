@@ -49,6 +49,6 @@ Figure 2: assignment and communication stage- The support agent reviews ticket p
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Figure: 3 resolution stage- The support agent identifies the account lockout, restores access following identity verification, and confirms that the finance application is working again. Timmy discovers that Samantha's finance application account was locked after multiple unsuccessful login attempts. after verifying Samantha's identity, Timmy unlocks the account using the approved recovery procedure. Samantha successfully logs in and confirms that her access was restored.
 </p>
 <br />
